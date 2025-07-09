@@ -1,0 +1,4 @@
+/EIRA_Notebook
+ ├── EIRA_Zonificacion_Fractal.ipynb
+ ├── README.md
+ ├── requirements.txt
